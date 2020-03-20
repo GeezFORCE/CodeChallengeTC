@@ -8,4 +8,3 @@ while True:
         print(i)
         break
     i+=1
-print(zip(9,0))
