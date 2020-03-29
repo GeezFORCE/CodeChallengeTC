@@ -13,6 +13,7 @@ def counterGame(n):
         return("Louise")
     else:
         return("Richard")
+        
 for t_itr in range(t):
     n = int(input())
 
