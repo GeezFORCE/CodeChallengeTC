@@ -1,3 +1,3 @@
-# CodeChallengeTC
+# HackerRank--Python
 
-Questions solved from hackerrank
+Python Questions solved from hackerrank
